@@ -1,0 +1,4 @@
+#!/bin/bash
+# Burp Suite Professional EDITION Launcher Script made by TheBlaCkCoDeR
+# Elhouari Tahar Amine | @TheBlaCkCoDeR09
+java -jar /home/blackcoder/Tools/BurpSuitePro/BurpLoader.jar
